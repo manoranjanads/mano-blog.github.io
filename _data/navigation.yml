@@ -5,7 +5,7 @@ main:
   - title: "AI"
     url: /ai.html
   - title: "AWS & GCP"
-    url: /aws_gcp.html
+    url: /aws_and_gcp.html
   - title: "WebRTC"
     url: /webrtc.html
   # - title: "Xmpp"
