@@ -85,7 +85,7 @@ og_image                 : ""
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Personal
-  name                   : ManoRanjana de Silva
+  name                   : "ManoRanjana de Silva"
   links:
       - "https://www.linkedin.com/in/mrlinkedin94"
       - "https://facebook.com/mrfbonline"
