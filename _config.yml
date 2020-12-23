@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : &name "Mano's Blog"
 description              : "Enabling Collaboration"
 url                      : "https://blog.manoranjana.me"
-baseurl                  : "/blog"
+baseurl                  : "/"
 repository               : ""
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
