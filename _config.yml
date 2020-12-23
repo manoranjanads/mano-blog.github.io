@@ -290,6 +290,17 @@ defaults:
       related: true
       sidebar:
         nav: "main_sidebar"
+  # general
+  - scope:
+      path: ""
+      type: general
+    values:
+      layout: single
+      read_time: true
+      author_profile: false
+      comments: true
+      sidebar:
+        nav: "main_sidebar"
   # webrtc
   - scope:
       path: ""
@@ -346,17 +357,7 @@ defaults:
       comments: true
       sidebar:
         nav: "main_sidebar"
-  # general
-  - scope:
-      path: ""
-      type: general
-    values:
-      layout: single
-      read_time: true
-      author_profile: false
-      comments: true
-      sidebar:
-        nav: "main_sidebar"
+
 
 # Collections
 collections:
