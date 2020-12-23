@@ -301,6 +301,17 @@ defaults:
       comments: true
       sidebar:
         nav: "main_sidebar"
+  # ai
+  - scope:
+      path: ""
+      type: ai
+    values:
+      layout: single
+      read_time: true
+      author_profile: false
+      comments: true
+      sidebar:
+        nav: "ai_sidebar"
   # webrtc
   - scope:
       path: ""
@@ -335,6 +346,17 @@ defaults:
       comments: true
       sidebar:
         nav: "aws_sidebar"
+  # gcp
+  - scope:
+      path: ""
+      type: gcp
+    values:
+      layout: single
+      read_time: true
+      author_profile: false
+      comments: true
+      sidebar:
+        nav: "gcp_sidebar"
   # products
   - scope:
       path: ""
@@ -364,6 +386,9 @@ collections:
   posts:
     output: true
     permalink: /:collection/:path
+  ai:
+    output: true
+    permalink: /:collection/:path
   webrtc:
     output: true
     permalink: /:collection/:path/
@@ -371,6 +396,9 @@ collections:
       output: true
       permalink: /:collection/:path/
   aws:
+    output: true
+    permalink: /:collection/:path
+  gcp:
     output: true
     permalink: /:collection/:path
   products:
