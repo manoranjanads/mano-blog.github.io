@@ -1,7 +1,7 @@
 ---
-title: AWS & GCP
+title: AWS
 layout: collection
-permalink: /aws_and_gcp.html
+permalink: /aws.html
 collection: aws
 entries_layout: grid
 classes: wide
