@@ -1,17 +1,20 @@
 # main links
 main:
+  - title: "General"
+    url: /general.html
+  - title: "AI"
+    url: /ai.html
+  - title: "AWS & GCP"
+    url: /aws_gcp.html
   - title: "WebRTC"
     url: /webrtc.html
   # - title: "Xmpp"
   #   url: /xmpp.html
-  - title: "AWS"
-    url: /aws.html
   - title: "Products"
     url: /products.html
-  - title: "Services"
+  - title: "My Services"
     url: /services.html
-  - title: "General"
-    url: /general.html
+
 
 webrtc_sidebar:
   - title: "WebRTC Basics"
