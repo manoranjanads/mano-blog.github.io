@@ -1,0 +1,8 @@
+{% if site.support_chat and page.support_chat != false %}
+
+{% case site.support_chat.provider %}
+{% when "messenger" %}
+  {% include /support-chat-providers/messenger.html %}
+{% endcase %}
+
+{% endif %}

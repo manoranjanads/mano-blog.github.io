@@ -1,0 +1,180 @@
+# main links
+main:
+  - title: "WebRTC"
+    url: /webrtc.html
+  # - title: "Xmpp"
+  #   url: /xmpp.html
+  - title: "AWS"
+    url: /aws.html
+  - title: "Products"
+    url: /products.html
+  - title: "Services"
+    url: /services.html
+  - title: "General"
+    url: /general.html
+
+webrtc_sidebar:
+  - title: "WebRTC Basics"
+    children:
+    - title: "1. What is WebRTC" #1#1
+      url: "/webrtc/what-is-webrtc.html"
+    - title: "2. Introduction to WebRTC Libraries" #1#2
+      url: "/webrtc/introduction.html"
+    - title: "3. Access device media for WebRTC Applications" #1#3
+      url: "/webrtc/access-device-media-for-webrtc-apps.html"
+    - title: "4. How to Setup A Signaling Server" #1#4
+      url: "/webrtc/how-to-setup-a-signaling-server.html"
+  - title: "Jitsi Meet"
+    children:
+    - title: "1. Installing Jitsi Meet" #2#1
+      url: "/webrtc/jitsi/meet/installing.html"
+    - title: "2. Jitsi Meet and Ports" #2#2
+      url: "/webrtc/jitsi/meet/what-port-your-should-open.html"
+    - title: "3. Jitsi Meet and Firewalls" #2#4
+      url: "/webrtc/jitsi/jitsi-meet-and-firewalls.html"
+    - title: "4. Settingup a Turn Server for Jitsi Meet" #2#4
+      url: "/webrtc/jitsi/setting-up-a-turn-server-for-jitsi-meet.html"
+    - title: "5. Jitsi Meet with Openfire" #2#5
+      url: "/webrtc/jitsi-meet-with-open-fire.html"
+    - title: "6. Jitsi Meet with Ejabberd" #2#6
+      url: "/webrtc/jitsi-meet-with-open-fire.html"
+    - title: "7. Load Testing Jitsi Meet" #2#7
+      url: "/webrtc/jitsi/jitsi-meet-load-testing.html" #2#10
+    - title: "8. Customize Jitsi UI in 5 minutes" #2#8
+      url: "/webrtc/customize-jitsi-video-conferencing-application-in-5-minutes.html" #2#12
+    - title: "9. Load Balancing Jitsi Meet" #2#9
+      url: "/webrtc/jitsi/jitsi-meet-load-balancing.html" #2#13
+    - title: "10. Auto Scaling Jitsi Meet" #2#10
+      url: "/webrtc/jitsi/jitsi-meet-auto-scaling.html" #2#14
+    - title: "11. Deploying Jibri in a private LAN" #2#12
+      url: "/webrtc/jitsi/deploying-jibri-in-a-private-lan.html"
+    - title: "12. Opersource Enterprise Video Conferencing" #2#16
+      url: "/webrtc/jitsi/stable-secure-open-source-and-completely-free-enterprises-can-now-rest-by-having-their-own-conferencing-tool-with-Jitsi.html"
+    - title: "13. How Many Users Does Jitsi Support" #2#17
+      url: "/webrtc/jitsi/how-many-users-does-jitsi-support.html"
+    - title: "14. Jitsi; the ground breaking opensource video conferencing solution" #2#18
+      url: "/webrtc/jitsi/jitsi-the-ground-breaking-opensource-videoconferencing-solution.html"
+  - title: "Kurento"
+    children:
+    - title: "1. Installing Kurento Media Server" #3#1
+      url: "/webrtc/kurento.html"
+    - title: "2. Creating an OpenCV Filter for Kurento Media Server" #3#2
+      url: "/webrtc/kurento/creating-an-opencv-filter-for-kurento-media-server.html"
+    - title: "3. Kurento with ALVAR and Irrlicht" #3#3
+      url: "/webrtc/kurento/kurento-with-alvar-and-irrlicht.html"
+  - title: "Big Blue Button"
+    children:
+    - title: "1. Settingup BigBlueButton" #4#1
+      url: "/webrtc/how-to-setup-bigbluebutton-on-ec2.html"
+  - title: "Turn Servers"
+    children:
+    - title: "1. Installing Coturn" #5#1
+      url: "/webrtc/coturn/installation.html"
+    - title: "2. Setingup a Coturn Docker Image" #5#2
+      url: /webrtc/turnserver/long_term_cred.html
+    - title: "3. Installing Coturn to Work with Kurento" #5#3
+      url: /webrtc/coturn.html
+    - title: "4. Installing Kurento Media Server" #5#4
+      url: "/webrtc/kurento/installing.html"
+
+aws_sidebar:
+  - title: "AWS"
+    children:
+    - title: "1. Settingup AWS Cli"
+      url: "/aws/installing_aws_cli.html"
+    - title: "2. Uploading Large Files to AWS S3"
+      url: "/aws/uploading/large-files.html"
+    - title: "3. Import/Export Virtual Machine Images"
+      url: "/aws/ec2/import-export.html"
+    - title: "4. Changing the Default Ubuntu Kernel"
+      url: "/aws/changing-default-ubuntu-kernel.html"
+    - title: "5. Resource interpreted as Stylesheet but transferred"
+      url: "/aws/04-resource-interpreted-as-stylesheet-but-transferred.html"
+    - title: "6. Using Step Functions to Schedule Your Lambda"
+      url: "/aws/06-using-step-functions-to-schedule-your-lambda.html"
+    - title: "7. Passing data between lambda in AWS Step Function"
+      url: "/aws/07-passing-data-between-lambda-in-aws-step-function.html"
+    - title: "8. AWS billing for Jisi users"
+      url: "/aws/08-AWS-billing-for-jitsi-customers.html"  
+
+main_sidebar:
+  - title: "WebRTC Basics"
+    children:
+    - title: "1. What is WebRTC" #1#1
+      url: "/webrtc/what-is-webrtc.html"
+    - title: "2. Introduction to WebRTC Libraries" #1#2
+      url: "/webrtc/introduction.html"
+    - title: "3. Access device media for WebRTC Applications" #1#3
+      url: "/webrtc/access-device-media-for-webrtc-apps.html"
+    - title: "4. How to Setup A Signaling Server" #1#4
+      url: "/webrtc/how-to-setup-a-signaling-server.html"
+  - title: "Jitsi Meet"
+    children:
+    - title: "1. Installing Jitsi Meet" #2#1
+      url: "/webrtc/jitsi/meet/installing.html"
+    - title: "2. Jitsi Meet and Ports" #2#2
+      url: "/webrtc/jitsi/meet/what-port-your-should-open.html"
+    - title: "3. Jitsi Meet and Firewalls" #2#3
+      url: "/webrtc/jitsi/jitsi-meet-and-firewalls.html"
+    - title: "4. Settingup a Turn Server for Jitsi Meet" #2#4
+      url: "/webrtc/jitsi/setting-up-a-turn-server-for-jitsi-meet.html"
+    - title: "5. Jitsi Meet with Openfire" #2#5
+      url: "/webrtc/jitsi-meet-with-open-fire.html"
+    - title: "6. Jitsi Meet with Ejabberd" #2#6
+      url: "/webrtc/jitsi-meet-with-open-fire.html"
+    - title: "7. Load Testing Jitsi Meet" #2#7
+      url: "/webrtc/jitsi/jitsi-meet-load-testing.html" #2#10
+    - title: "8. Customize Jitsi UI in 5 minutes" #2#8
+      url: "/webrtc/customize-jitsi-video-conferencing-application-in-5-minutes.html" #2#10
+    - title: "9. Load Balancing Jitsi Meet" #2#9
+      url: "/webrtc/jitsi/jitsi-meet-load-balancing.html" #2#13
+    - title: "10. Auto Scaling Jitsi Meet" #2#10
+      url: "/webrtc/jitsi/jitsi-meet-auto-scaling.html" #2#14
+    - title: "11. Deploying Jibri in a private LAN" #2#12
+      url: "/webrtc/jitsi/deploying-jibri-in-a-private-lan.html"
+    - title: "12. Opersource Enterprise Video Conferencing" #2#16
+      url: "/webrtc/jitsi/stable-secure-open-source-and-completely-free-enterprises-can-now-rest-by-having-their-own-conferencing-tool-with-Jitsi.html"
+    - title: "13. How Many Users Does Jitsi Support" #2#17
+      url: "/webrtc/jitsi/how-many-users-does-jitsi-support.html"
+    - title: "14. Jitsi; the ground breaking opensource video conferencing solution" #2#18
+      url: "/webrtc/jitsi/jitsi-the-ground-breaking-opensource-videoconferencing-solution.html"
+  - title: "Kurento"
+    children:
+    - title: "1. Installing Kurento Media Server" #3#1
+      url: "/webrtc/kurento.html"
+    - title: "2. Creating an OpenCV Filter for Kurento Media Server" #3#2
+      url: "/webrtc/kurento/creating-an-opencv-filter-for-kurento-media-server.html"
+    - title: "3. Kurento with ALVAR and Irrlicht" #3#3
+      url: "/webrtc/kurento/kurento-with-alvar-and-irrlicht.html"
+  - title: "Big Blue Button"
+    children:
+    - title: "1. Settingup BigBlueButton" #4#1
+      url: "/webrtc/how-to-setup-bigbluebutton-on-ec2.html"
+  - title: "Turn Servers"
+    children:
+    - title: "1. Installing Coturn" #5#1
+      url: "/webrtc/coturn/installation.html"
+    - title: "2. Setingup a Coturn Docker Image" #5#2
+      url: /webrtc/turnserver/long_term_cred.html
+    - title: "3. Installing Coturn to Work with Kurento" #5#3
+      url: /webrtc/coturn.html
+    - title: "4. Installing Kurento Media Server" #5#4
+      url: "/webrtc/kurento/installing.html"
+  - title: "AWS"
+    children:
+    - title: "1. Settingup AWS Cli"
+      url: "/aws/installing_aws_cli.html"
+    - title: "2. Uploading Large Files to AWS S3"
+      url: "/aws/uploading/large-files.html"
+    - title: "3. Import/Export Virtual Machine Images"
+      url: "/aws/ec2/import-export.html"
+    - title: "4. Changing the Default Ubuntu Kernel"
+      url: "/aws/changing-default-ubuntu-kernel.html"
+    - title: "5. Resource interpreted as Stylesheet but transferred"
+      url: "/aws/04-resource-interpreted-as-stylesheet-but-transferred.html"
+    - title: "6. Using Step Functions to Schedule Your Lambda"
+      url: "/aws/06-using-step-functions-to-schedule-your-lambda.html"
+    - title: "7. Passing data between lambda in AWS Step Function"
+      url: "/aws/07-passing-data-between-lambda-in-aws-step-function.html"
+    - title: "8. AWS billing for Jisi users"
+      url: "/aws/08-AWS-billing-for-jitsi-customers.html" 

@@ -1,0 +1,65 @@
+Jay:
+  name: "Buddhika Jayawardhana (Jay)"
+  uri: "https://github.com/buddhikajay"
+  email: "jay@meetrix.io"
+  bio: "Principal Engineer @ Meetrix."
+  avatar: "/assets/images/authors/buddhikajay.jpg"
+  twitter: "@buddhikajaywar"
+
+Yasith:
+  name: "Yasith Prabuddhaka"
+  uri: "https://gitlab.com/yasithph"
+  email: "yasith@meetrix.io"
+  bio: "Engineer @ Meetrix"
+  avatar: "/assets/images/authors/yasith.jpeg"
+  twitter: "@yasithph"
+
+Nipuna:
+  name: "Nipuna Akalana"
+  ur: "https://github.com/akalana"
+  email: "nipuna@meetrix.io"
+  bio: "Full Stack Developer @ Meetrix"
+  avatar: "/assets/images/authors/akalana.jpg"
+
+Supun:
+  name: "Supun Madushanka"
+  uri: "https://github.com/supun19"
+  email: "supun@meetrix.io"
+  bio: "Engineer @ Meetrix"
+  avatar: "/assets/images/authors/supun.jpg"
+  twitter: "@mksupun1991"
+
+Madusara:
+  name: "Madusara Liyanage"
+  uri: "https://github.com/madusara"
+  email: "madusara@meetrix.io"
+  bio: "Frontend Engineer @ Meetrix"
+  avatar: "/assets/images/authors/madusara.png"
+  twitter: "@zinchona"
+
+Lahiru:
+  name: "Lahiru Amarasooriya"
+  uri: "https://github.com/lahirudx"
+  email: "lahiru@meetrix.io"
+  bio: "Full Stack Developer @ Meetrix"
+  avatar: "/assets/images/authors/lahiru.jpg"
+
+Kaveesha:
+  name: "Kaveesha Tharushika"
+  uri: "https://gitlab.com/Kaveesha_TR"
+  email: "kaveesha@meetrix.io"
+  bio: "Full Stack Developer @ Meetrix"
+
+Achala:
+  name: "Achala Meddegama"
+  uri: "https://github.com/achala87"
+  email: "achala@meetrix.io"
+  bio: "Chief Operations Officer @ Meetrix"
+  avatar: "/assets/images/authors/achala.jpg"
+
+Meetrix Blogger:
+  name: "Meetrix WebRTC Consultants"
+  uri: ""
+  email: "achala@meetrix.io"
+  bio: "WebRTC consultants on Jitsi and other realtime communications tools"
+  avatar: ""
