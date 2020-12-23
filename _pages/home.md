@@ -1,12 +1,14 @@
 ---
-title: All Posts
+title: Home (All Posts)
 layout: collections-all
 permalink: /index.html
-collection: webrtc
+collection: general
 collections:
+  - general
+  - ai
   - webrtc
-  - products
   - aws
+  - gcp
   - posts
 entries_layout: grid
 classes: wide
