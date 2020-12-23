@@ -65,7 +65,7 @@ algolia:
   application_id         : ""
   index_name             : ""
   search_only_api_key    : ""
-  powered_by             : true
+  powered_by             : false
 
 # SEO Related
 google_site_verification :
@@ -77,18 +77,18 @@ naver_site_verification  :
 twitter:
   username               : &twitter ""
 facebook:
-  username               : &facebook ""
-  app_id                 :  "131906234232845"
+  username               : &facebook "mrfbonline"
+  app_id                 :  ""
   publisher              : "https://www.facebook.com/mrfbonline"
 og_image                 : ""
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Organization
+  type                   : Personal
   name                   : # If the user or organization name differs from the site's name
   links:
-      - "https://twitter.com/"
-      - "https://facebook.com/"
+      - "https://www.linkedin.com/in/mrlinkedin94"
+      - "https://facebook.com/mrfbonline"
 
 # Analytics
 analytics:
@@ -108,10 +108,10 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/meetrix-logo.png"
-  bio              : "Enabling Collaboration through Real Time Communications"
+  avatar           : "/assets/images/authors/ManoRanjana.jpg"
+  bio              : "Mind is everything. What you think, you become."
   location         : "Colombo, Sri Lanka"
-  email            :
+  email            : "manoranjana@ieee.org"
   uri              : "https://manoranjana.me/"
   home             : "https://manoranjana.me/"
   bitbucket        :
@@ -120,7 +120,7 @@ author:
   flickr           :
   facebook         : "mrfbonline"
   foursquare       :
-  github           : "mrfbonline"
+  github           : "MRGitHub94"
   gitlab           :
   google_plus      :
   keybase          :

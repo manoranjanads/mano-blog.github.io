@@ -8,6 +8,9 @@ header:
   overlay_filter: 0.5
 last_modified_at: 2018-10-19T15:59:07-04:00
 toc: true
+author_profile: true
+share: true
+comments: true
 # categories:
 #   - Git
 #   - Trainee
