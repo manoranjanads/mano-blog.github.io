@@ -37,11 +37,11 @@ header:
   overlay_image: /assets/images/webrtc/01-introduction/introduction.png
   teaser: /assets/images/weight-loss/10-best-food-practices/01-breakfast-image.png
   overlay_filter: 0.5
-last_modified_at: 2018-11-08T14:07:49-04:00
+last_modified_at: 2020-12-23T14:08:57-05:00
 redirect_from:
   - /theme-setup/
 toc: true
-author: Jay
+author: Mano
 ---
 
 ```
