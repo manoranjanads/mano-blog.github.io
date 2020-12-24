@@ -11,12 +11,12 @@ toc: true
 author_profile: true
 share: true
 comments: true
-# categories:
-#   - Git
-#   - Trainee
-# tags:
-#   - Git
-#   - Beginner
+categories:
+   - Git
+   - Trainee
+tags:
+   - Git
+   - Beginner
 ---
 
 Git is the most favourite version controlling system loved by millions of developers. 

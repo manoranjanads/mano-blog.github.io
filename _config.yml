@@ -18,8 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Mano's Blog"
 title_separator          : "-"
+subtitle                 : "Vision beyond technology"
 name                     : &name "Mano's Blog"
-description              : "Enabling Collaboration"
+description              : "Vision beyond technology"
 url                      : "https://blog.manoranjana.me"
 baseurl                  : "/"
 repository               : ""
@@ -62,9 +63,9 @@ search                   : true
 search_full_content      : true
 search_provider          : algolia
 algolia:
-  application_id         : ""
-  index_name             : ""
-  search_only_api_key    : ""
+  application_id         : "6CO2LWXWGC"
+  index_name             : "mano_blog"
+  search_only_api_key    : "2e33011769c1a009ab9dfb4532c1656a"
   powered_by             : false
 
 # SEO Related
@@ -218,7 +219,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-archives
   - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -226,7 +229,9 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-archives
   - jemoji
+  - jekyll-include-cache
 
 
 # Archives
