@@ -18,15 +18,15 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Mano's Blog"
 title_separator          : "-"
-subtitle                 : "Vision beyond technology"
-name                     : ".: Home :. - Mano's Blog"
-description              : "Vision beyond technology: Welcome to the official Blog space of ManoRanjana De Silva. You can learn, research or contribute anything related to technology with Mano."
+subtitle                 : "A vision beyond technology"
+name                     : "Mano's Blog"
+description              : "A vision beyond technology: Welcome to the official Blog space of ManoRanjana De Silva. You can learn, research or contribute anything related to technology with Mano."
 url                      : "https://blog.manoranjana.me"
 baseurl                  : "/"
 repository               : ""
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 120
 comments:
   provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
