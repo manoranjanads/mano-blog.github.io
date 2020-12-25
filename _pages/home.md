@@ -1,5 +1,6 @@
 ---
-title: Home (All Posts)
+title: Home - Mano's Blog
+subtitle: All Posts
 layout: collections-all
 permalink: /index.html
 collection: general

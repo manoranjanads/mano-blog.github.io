@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -81,7 +81,7 @@ facebook:
   username               : &facebook "mrfbonline"
   app_id                 :  ""
   publisher              : "https://www.facebook.com/mrfbonline"
-og_image                 : ""
+og_image                 : "/assets/images/og.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "ManoRanjana de Silva"  #*name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/authors/ManoRanjana.jpg"
-  bio              : "Mind is everything. What you think you become."
+  bio              : "Entrepreneur / Researcher & Associate Software Engineer"
   location         : "Colombo, Sri Lanka"
   email            : "manoranjana@ieee.org"
   uri              : "https://manoranjana.me/"
