@@ -2,20 +2,21 @@
 main:
   - title: "General"
     url: /general.html
+  - title: "Fundamentals"
+    url: /fundamentals.html
   - title: "AI"
     url: /ai.html
   - title: "AWS"
     url: /aws.html
   - title: "GCP"
     url: /gcp.html
-  - title: "WebRTC"
-    url: /webrtc.html
-  # - title: "Xmpp"
-  #   url: /xmpp.html
-  # - title: "Products"
-  #   url: /products.html
-  - title: "My Services"
-    url: /services.html
+  - title: "React JS"
+    url: /reactjs.html  
+  - title: "Services"
+    url: /services.html  
+  - title: "Researches"
+    url: /researches.html
+
 
 
 webrtc_sidebar:
@@ -103,78 +104,34 @@ aws_sidebar:
       url: "/aws/08-AWS-billing-for-jitsi-customers.html"  
 
 main_sidebar:
+  - title: "General"
+    children:
+    - title: "1. Overview to Mano's Blog" #1#1
+      url: "/general/overview-to-my-blog.html"
+    - title: "2. What is Computer Science" #1#2
+      url: "/general/what-is-computer-science.html"
+    - title: "3. Story of Successful Software Engineer" #1#3
+      url: "/general/story-of-successful-software-engineer.html"
+    - title: "4. Vision & Passion" #1#4
+      url: "/general/vision-and-passion.html"
   - title: "Fundamentals"
     children:
     - title: "1. Git for Dummies" #1#1
-      url: "/general/basic-git-commands-for-beginners.html"
+      url: "/fundamentals/basic-git-commands-for-beginners.html"
     - title: "2. XCode for OpenCV Development" #1#2
-      url: "/general/how-to-setup-xcode-for-opencv-development.html"
+      url: "/fundamentals/how-to-setup-xcode-for-opencv-development.html"
     - title: "3. Top 5 React Libraries & Tools" #1#3
-      url: "/general/top-5-useful-react-libraries-and-tools.html"
+      url: "/fundamentals/top-5-useful-react-libraries-and-tools.html"
     - title: "4. Useful CSS Functions" #1#4
-      url: "/general/useful-css-functions.html"
-  - title: "WebRTC Basics"
+      url: "/fundamentals/useful-css-functions.html"
+  - title: "AI"
     children:
-    - title: "1. What is WebRTC" #1#1
-      url: "/webrtc/what-is-webrtc.html"
-    - title: "2. Introduction to WebRTC Libraries" #1#2
-      url: "/webrtc/introduction.html"
-    - title: "3. Access device media for WebRTC Applications" #1#3
-      url: "/webrtc/access-device-media-for-webrtc-apps.html"
-    - title: "4. How to Setup A Signaling Server" #1#4
-      url: "/webrtc/how-to-setup-a-signaling-server.html"
-  - title: "Jitsi Meet"
+    - title: "1. Dive into Artificial Intelligence" #1#1
+      url: "/ai/dive-into-artificial-intelligence.html" 
+  - title: "React JS"
     children:
-    - title: "1. Installing Jitsi Meet" #2#1
-      url: "/webrtc/jitsi/meet/installing.html"
-    - title: "2. Jitsi Meet and Ports" #2#2
-      url: "/webrtc/jitsi/meet/what-port-your-should-open.html"
-    - title: "3. Jitsi Meet and Firewalls" #2#3
-      url: "/webrtc/jitsi/jitsi-meet-and-firewalls.html"
-    - title: "4. Settingup a Turn Server for Jitsi Meet" #2#4
-      url: "/webrtc/jitsi/setting-up-a-turn-server-for-jitsi-meet.html"
-    - title: "5. Jitsi Meet with Openfire" #2#5
-      url: "/webrtc/jitsi-meet-with-open-fire.html"
-    - title: "6. Jitsi Meet with Ejabberd" #2#6
-      url: "/webrtc/jitsi-meet-with-open-fire.html"
-    - title: "7. Load Testing Jitsi Meet" #2#7
-      url: "/webrtc/jitsi/jitsi-meet-load-testing.html" #2#10
-    - title: "8. Customize Jitsi UI in 5 minutes" #2#8
-      url: "/webrtc/customize-jitsi-video-conferencing-application-in-5-minutes.html" #2#10
-    - title: "9. Load Balancing Jitsi Meet" #2#9
-      url: "/webrtc/jitsi/jitsi-meet-load-balancing.html" #2#13
-    - title: "10. Auto Scaling Jitsi Meet" #2#10
-      url: "/webrtc/jitsi/jitsi-meet-auto-scaling.html" #2#14
-    - title: "11. Deploying Jibri in a private LAN" #2#12
-      url: "/webrtc/jitsi/deploying-jibri-in-a-private-lan.html"
-    - title: "12. Opersource Enterprise Video Conferencing" #2#16
-      url: "/webrtc/jitsi/stable-secure-open-source-and-completely-free-enterprises-can-now-rest-by-having-their-own-conferencing-tool-with-Jitsi.html"
-    - title: "13. How Many Users Does Jitsi Support" #2#17
-      url: "/webrtc/jitsi/how-many-users-does-jitsi-support.html"
-    - title: "14. Jitsi; the ground breaking opensource video conferencing solution" #2#18
-      url: "/webrtc/jitsi/jitsi-the-ground-breaking-opensource-videoconferencing-solution.html"
-  - title: "Kurento"
-    children:
-    - title: "1. Installing Kurento Media Server" #3#1
-      url: "/webrtc/kurento.html"
-    - title: "2. Creating an OpenCV Filter for Kurento Media Server" #3#2
-      url: "/webrtc/kurento/creating-an-opencv-filter-for-kurento-media-server.html"
-    - title: "3. Kurento with ALVAR and Irrlicht" #3#3
-      url: "/webrtc/kurento/kurento-with-alvar-and-irrlicht.html"
-  - title: "Big Blue Button"
-    children:
-    - title: "1. Settingup BigBlueButton" #4#1
-      url: "/webrtc/how-to-setup-bigbluebutton-on-ec2.html"
-  - title: "Turn Servers"
-    children:
-    - title: "1. Installing Coturn" #5#1
-      url: "/webrtc/coturn/installation.html"
-    - title: "2. Setingup a Coturn Docker Image" #5#2
-      url: /webrtc/turnserver/long_term_cred.html
-    - title: "3. Installing Coturn to Work with Kurento" #5#3
-      url: /webrtc/coturn.html
-    - title: "4. Installing Kurento Media Server" #5#4
-      url: "/webrtc/kurento/installing.html"
+    - title: "1. What is React JS" #1#1
+      url: "/reactjs/what-is-react-js.html"         
   - title: "AWS"
     children:
     - title: "1. Settingup AWS Cli"
@@ -192,4 +149,81 @@ main_sidebar:
     - title: "7. Passing data between lambda in AWS Step Function"
       url: "/aws/07-passing-data-between-lambda-in-aws-step-function.html"
     - title: "8. AWS billing for Jisi users"
-      url: "/aws/08-AWS-billing-for-jitsi-customers.html" 
+      url: "/aws/08-AWS-billing-for-jitsi-customers.html"
+  - title: "GCP"
+    children:
+    - title: "1. Introduction to GCP" #1#1
+      url: "/gcp/introduction-to-gcp.html"         
+  - title: "WebRTC Basics"
+    children:
+    - title: "1. What is WebRTC" #1#1
+      url: "/webrtc/what-is-webrtc.html"
+    - title: "2. Introduction to WebRTC Libraries" #1#2
+      url: "/webrtc/introduction.html"
+    - title: "3. Access device media for WebRTC Applications" #1#3
+      url: "/webrtc/access-device-media-for-webrtc-apps.html"
+    - title: "4. How to Setup A Signaling Server" #1#4
+      url: "/webrtc/how-to-setup-a-signaling-server.html"
+  - title: "Services"
+    children:
+    - title: "1. Web Hosting with Linux" #1#1
+      url: "/services/web-hosting-with-linux.html"
+  - title: "Researches"
+    children:
+    - title: "1. Basic Machine Learning Project" #1#1
+      url: "/researches/basic-machine-learning-project.html"          
+
+
+  # - title: "Jitsi Meet"
+  #   children:
+  #   - title: "1. Installing Jitsi Meet" #2#1
+  #     url: "/webrtc/jitsi/meet/installing.html"
+  #   - title: "2. Jitsi Meet and Ports" #2#2
+  #     url: "/webrtc/jitsi/meet/what-port-your-should-open.html"
+  #   - title: "3. Jitsi Meet and Firewalls" #2#3
+  #     url: "/webrtc/jitsi/jitsi-meet-and-firewalls.html"
+  #   - title: "4. Settingup a Turn Server for Jitsi Meet" #2#4
+  #     url: "/webrtc/jitsi/setting-up-a-turn-server-for-jitsi-meet.html"
+  #   - title: "5. Jitsi Meet with Openfire" #2#5
+  #     url: "/webrtc/jitsi-meet-with-open-fire.html"
+  #   - title: "6. Jitsi Meet with Ejabberd" #2#6
+  #     url: "/webrtc/jitsi-meet-with-open-fire.html"
+  #   - title: "7. Load Testing Jitsi Meet" #2#7
+  #     url: "/webrtc/jitsi/jitsi-meet-load-testing.html" #2#10
+  #   - title: "8. Customize Jitsi UI in 5 minutes" #2#8
+  #     url: "/webrtc/customize-jitsi-video-conferencing-application-in-5-minutes.html" #2#10
+  #   - title: "9. Load Balancing Jitsi Meet" #2#9
+  #     url: "/webrtc/jitsi/jitsi-meet-load-balancing.html" #2#13
+  #   - title: "10. Auto Scaling Jitsi Meet" #2#10
+  #     url: "/webrtc/jitsi/jitsi-meet-auto-scaling.html" #2#14
+  #   - title: "11. Deploying Jibri in a private LAN" #2#12
+  #     url: "/webrtc/jitsi/deploying-jibri-in-a-private-lan.html"
+  #   - title: "12. Opersource Enterprise Video Conferencing" #2#16
+  #     url: "/webrtc/jitsi/stable-secure-open-source-and-completely-free-enterprises-can-now-rest-by-having-their-own-conferencing-tool-with-Jitsi.html"
+  #   - title: "13. How Many Users Does Jitsi Support" #2#17
+  #     url: "/webrtc/jitsi/how-many-users-does-jitsi-support.html"
+  #   - title: "14. Jitsi; the ground breaking opensource video conferencing solution" #2#18
+  #     url: "/webrtc/jitsi/jitsi-the-ground-breaking-opensource-videoconferencing-solution.html"
+  # - title: "Kurento"
+  #   children:
+  #   - title: "1. Installing Kurento Media Server" #3#1
+  #     url: "/webrtc/kurento.html"
+  #   - title: "2. Creating an OpenCV Filter for Kurento Media Server" #3#2
+  #     url: "/webrtc/kurento/creating-an-opencv-filter-for-kurento-media-server.html"
+  #   - title: "3. Kurento with ALVAR and Irrlicht" #3#3
+  #     url: "/webrtc/kurento/kurento-with-alvar-and-irrlicht.html"
+  # - title: "Big Blue Button"
+  #   children:
+  #   - title: "1. Settingup BigBlueButton" #4#1
+  #     url: "/webrtc/how-to-setup-bigbluebutton-on-ec2.html"
+  # - title: "Turn Servers"
+  #   children:
+  #   - title: "1. Installing Coturn" #5#1
+  #     url: "/webrtc/coturn/installation.html"
+  #   - title: "2. Setingup a Coturn Docker Image" #5#2
+  #     url: /webrtc/turnserver/long_term_cred.html
+  #   - title: "3. Installing Coturn to Work with Kurento" #5#3
+  #     url: /webrtc/coturn.html
+  #   - title: "4. Installing Kurento Media Server" #5#4
+  #     url: "/webrtc/kurento/installing.html"
+  

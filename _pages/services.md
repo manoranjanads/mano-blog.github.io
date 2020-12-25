@@ -1,5 +1,5 @@
 ---
-title: Services
+title: My Services
 layout: collection
 permalink: /services.html
 collection: services

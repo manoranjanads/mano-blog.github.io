@@ -307,6 +307,17 @@ defaults:
       comments: true
       sidebar:
         nav: "main_sidebar"
+  # fundamentals
+  - scope:
+      path: ""
+      type: fundamentals
+    values:
+      layout: single
+      read_time: true
+      author_profile: true
+      comments: true
+      sidebar:
+        nav: "main_sidebar"      
   # ai
   - scope:
       path: ""
@@ -363,17 +374,17 @@ defaults:
       comments: true
       sidebar:
         nav: "gcp_sidebar"
-  # products
+  # reactjs
   - scope:
       path: ""
-      type: products
+      type: reactjs
     values:
       layout: single
       read_time: true
       author_profile: false
       comments: true
       sidebar:
-        nav: "main_sidebar"
+        nav: "reactjs_sidebar"
   # services
   - scope:
       path: ""
@@ -384,7 +395,18 @@ defaults:
       author_profile: false
       comments: true
       sidebar:
-        nav: "main_sidebar"
+        nav: "services_sidebar"
+  # researches
+  - scope:
+      path: ""
+      type: researches
+    values:
+      layout: single
+      read_time: true
+      author_profile: false
+      comments: true
+      sidebar:
+        nav: "researches_sidebar"      
 
 
 # Collections
@@ -407,12 +429,18 @@ collections:
   gcp:
     output: true
     permalink: /:collection/:path
-  products:
+  reactjs:
+    output: true
+    permalink: /:collection/:path  
+  researches:
     output: true
     permalink: /:collection/:path
   services:
     output: true
     permalink: /:collection/:path
+  fundamentals:
+    output: true
+    permalink: /:collection/:path  
   general:
     output: true
     permalink: /:collection/:path
