@@ -82,6 +82,7 @@ facebook:
   app_id                 :  ""
   publisher              : "https://www.facebook.com/mrfbonline"
 og_image                 : "/assets/images/og.png"
+og_title                 : ".: Home :. - Mano's Blog"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
