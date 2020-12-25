@@ -104,7 +104,7 @@ support_chat:
   provider        : "messenger"
   messenger:
     page_id: "106290111387473"
-    theme_color: "#fc7b7c"
+    theme_color: "#FF6B33"
 
 
 # Site Author
