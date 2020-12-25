@@ -1,14 +1,14 @@
 ---
 title: "Useful CSS functions"
-permalink: /general/useful-css-functions.html
+permalink: /fundamentals/useful-css-functions.html
 excerpt: "Mobile responsive web design"
 header:
-  overlay_image: /assets/images/general/2019-05-25-shrink-a-div-horizontally-and-add-3-dots/coverpic.jpg
-  teaser: /assets/images/general/2019-05-25-shrink-a-div-horizontally-and-add-3-dots/css.png
+  overlay_image: /assets/images/fundamentals/2019-05-25-shrink-a-div-horizontally-and-add-3-dots/coverpic.jpg
+  teaser: /assets/images/fundamentals/2019-05-25-shrink-a-div-horizontally-and-add-3-dots/css.png
   overlay_filter: 0.4
 last_modified_at: 2019-12-24T11:00:07-04:00
 toc: true
-author: Kaveesha
+author: Mano
 # categories:
 #   - css
 #   - html

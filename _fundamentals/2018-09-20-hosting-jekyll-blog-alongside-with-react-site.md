@@ -1,14 +1,14 @@
 ---
 title: "Hosting Jekyll Website Alongside with React App on AWS"
-permalink: /general/hosting-jekyll-website-alongside-with-react-app.html
+permalink: /fundamentals/hosting-jekyll-website-alongside-with-react-app.html
 excerpt: "Hosting Jekyll Website Alongside with React App on AWS."
 header:
-  overlay_image: /assets/images/general/2018-09-20-hosting-jekyll-blog-alongside-with-react-site/jekyll_react_aws.png
-  teaser: /assets/images/general/2018-09-20-hosting-jekyll-blog-alongside-with-react-site/jekyll_react_aws.png
+  overlay_image: /assets/images/fundamentals/2018-09-20-hosting-jekyll-blog-alongside-with-react-site/jekyll_react_aws.png
+  teaser: /assets/images/fundamentals/2018-09-20-hosting-jekyll-blog-alongside-with-react-site/jekyll_react_aws.png
   overlay_filter: 0.5
 last_modified_at: 2018-09-20T15:59:07-04:00
 toc: true
-author: Jay
+author: Mano
 ---
 
 ## Why we love static sites

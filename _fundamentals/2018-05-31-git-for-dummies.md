@@ -1,10 +1,10 @@
 ---
 title: "Git for Dummies"
-permalink: /general/basic-git-commands-for-beginners.html
+permalink: /fundamentals/basic-git-commands-for-beginners.html
 excerpt: "Basic Git Commands"
 header:
-  overlay_image: /assets/images/general/2018-05-31-git-for-dummies/git.png
-  teaser: /assets/images/general/2018-05-31-git-for-dummies/git.png
+  overlay_image: /assets/images/fundamentals/2018-05-31-git-for-dummies/git.png
+  teaser: /assets/images/fundamentals/2018-05-31-git-for-dummies/git.png
   overlay_filter: 0.5
 last_modified_at: 2018-10-19T15:59:07-04:00
 toc: true

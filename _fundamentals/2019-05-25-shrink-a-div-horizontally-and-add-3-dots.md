@@ -1,14 +1,14 @@
 ---
 title: "Shrink a div horizontally and add 3 dots"
-permalink: /general/shrink-a-div-horizontally-and-add-3-dots.html
+permalink: /fundamentals/shrink-a-div-horizontally-and-add-3-dots.html
 excerpt: "Guide to CSS flex-grow, flex-shrink and overflow  "
 header:
-  overlay_image: /assets/images/general/2019-05-25-shrink-a-div-horizontally-and-add-3-dots/coverpic.jpg
-  teaser: /assets/images/general/2019-05-25-shrink-a-div-horizontally-and-add-3-dots/css.png
+  overlay_image: /assets/images/fundamentals/2019-05-25-shrink-a-div-horizontally-and-add-3-dots/coverpic.jpg
+  teaser: /assets/images/fundamentals/2019-05-25-shrink-a-div-horizontally-and-add-3-dots/css.png
   overlay_filter: 0.4
 last_modified_at: 2019-05-25T11:00:07-04:00
 toc: true
-author: Madusara
+author: Mano
 # categories:
 #   - css
 #   - flex
