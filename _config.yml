@@ -100,11 +100,11 @@ analytics:
   custom:
     tracking_id          : ""
 
-# support_chat:
-#   provider        : "messenger"
-#   messenger:
-#     page_id: ""
-#     theme_color: "#fc7b7c"
+support_chat:
+  provider        : "messenger"
+  messenger:
+    page_id: "106290111387473"
+    theme_color: "#fc7b7c"
 
 
 # Site Author
