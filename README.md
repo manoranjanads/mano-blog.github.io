@@ -90,9 +90,6 @@ In osx you need `brew install pkg-config`. Install imagemagick v 6 `brew install
 
 run `bundle exec jekyll serve` that will open up the dev server at `localhost:4000`
 
-### Landing Page
-
-run `gulp dev` inside `landingpage` directory this will open up the dev server at `localhost:3000`
 
 ## Production
 
