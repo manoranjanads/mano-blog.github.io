@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5
 last_modified_at: 2018-08-05T15:59:07-04:00
 toc: true
-author: Jay
+author: Mano
 ---
 If you receive this error in S3 hosted style sheets
 

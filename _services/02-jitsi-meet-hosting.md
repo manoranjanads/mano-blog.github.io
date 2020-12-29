@@ -16,7 +16,7 @@ toc: true
 #   - Hosting
 #   - Commercial
 #   - Support
-author: Jay
+author: Mano
 ---
 
 MeetrixIO is a a well experienced team with WebRTC related technologies. 

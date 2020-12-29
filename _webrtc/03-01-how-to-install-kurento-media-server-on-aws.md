@@ -10,7 +10,7 @@ last_modified_at: 2018-09-25T15:58:49-04:00
 redirect_from:
   - /theme-setup/
 toc: true
-author: Jay
+author: Mano
 ---
 This is a slightly modified version of original Kurento Cloud Formation template which allows you to
 point a domain to the server.

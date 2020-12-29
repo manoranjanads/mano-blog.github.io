@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5
 last_modified_at: 2018-05-05T15:59:07-04:00
 toc: true
-author: Jay
+author: Mano
 ---
 
 MeetrixIO is a a well experienced team with WebRTC related technologies. 

@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5
 last_modified_at: 2019-03-05-19T15:59:07-04:00
 toc: true
-author: Jay
+author: Mano
 ---
 
 Get Coturn configured by [Meetrix.IO](https://meetrix.io) just for `$250`.

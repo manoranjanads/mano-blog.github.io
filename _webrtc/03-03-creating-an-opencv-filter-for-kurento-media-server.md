@@ -10,7 +10,7 @@ last_modified_at: 2018-11-08T14:07:49-04:00
 redirect_from:
   - /theme-setup/
 toc: true
-author: Jay
+author: Mano
 ---
 [Meetrix.IO](https://meetrix.io) provides installation, configuration and customization services for Kurento.
 Get fully configured Kurento setup on your own server (starting from `$250`).

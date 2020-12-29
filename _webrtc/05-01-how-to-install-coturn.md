@@ -14,7 +14,7 @@ header:
     overlay_filter: 0.5
 last_modified_at: 2019-07-14-19T15:59:07-04:00
 toc: true
-author: Jay
+author: Mano
 ---
 
 **MeetrixIO** team is well experienced with WebRTC related technologies.

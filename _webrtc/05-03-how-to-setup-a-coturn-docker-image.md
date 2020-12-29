@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5
 last_modified_at: 2018-10-19T15:59:00-04:00
 toc: true
-author: Jay
+author: Mano
 ---
 
 **MeetrixIO** team is well experienced with WebRTC related technologies.
@@ -46,7 +46,7 @@ Now, lets setup Coturn inside a docker container. Create directory named `Coturn
 
 ```dockerfile
 FROM Ubuntu:16.04
-MAINTAINER Buddhika Jayawardhana <jay@meetrix.io>
+MAINTAINER Buddhika Manoawardhana <Mano@meetrix.io>
 
 RUN apt-get update && apt-get install -y coturn && apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 

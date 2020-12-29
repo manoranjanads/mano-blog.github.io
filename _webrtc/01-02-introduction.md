@@ -10,7 +10,7 @@ last_modified_at: 2018-10-19T15:58:49-04:00
 redirect_from:
   - /theme-setup/
 toc: true
-author: Jay
+author: Mano
 ---
 
 If you are visiting this blog, hope that you are already familiar with [WebRTC](https://webrtc.org/). This guide will not cover the basics of WebRTC

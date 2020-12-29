@@ -10,7 +10,7 @@ last_modified_at: 2018-10-19T15:58:49-04:00
 redirect_from:
   - /theme-setup/
 toc: true
-author: Jay
+author: Mano
 ---
 [Meetrix.IO](https://meetrix.io) provides installation, configuration and customization services for Jitsi Meet.
 Get fully configured Jitsi Meet setup on your own server (starting from `$300`).

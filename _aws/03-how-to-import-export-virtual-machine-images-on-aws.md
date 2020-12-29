@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5
 last_modified_at: 2018-05-05T15:59:07-04:00
 toc: true
-author: Jay
+author: Mano
 ---
 Some times you might need to use a preconfigured image in cloud environment as well as on-premise servers with virtualization. Amazon Web Services support importing VM to Amazon Machine Images and Exporting Imported instances.
 Please note AWS only officially support for exporting previously imported instances. That means you will not be able to export a regular ec2 instance to Virtual Machine Image.

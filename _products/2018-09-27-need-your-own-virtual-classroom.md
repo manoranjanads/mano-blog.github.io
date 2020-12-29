@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.8
 last_modified_at: 2018-09-24T15:58:49-04:00
 toc: true
-author: Jay
+author: Mano
 ---
 
 You might be running a Tutoring Business or planning to start one. Or you might be looking for a

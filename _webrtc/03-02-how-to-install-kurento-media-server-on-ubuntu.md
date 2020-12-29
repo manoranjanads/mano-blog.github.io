@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.7
 last_modified_at: 2019-07-26T15:59:07-04:00
 toc: true
-author: Jay
+author: Mano
 ---
 **MeetrixIO** team is well experienced with WebRTC related technologies.
 We provide **commercial support** for Jitsi Meet, Kurento, OpenVidu, BigBlue Button, Coturn Server and other webRTC related opensource projects.

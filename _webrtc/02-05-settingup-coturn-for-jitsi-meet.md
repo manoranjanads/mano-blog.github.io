@@ -10,7 +10,7 @@ last_modified_at: 2019-07-14T15:58:49-04:00
 redirect_from:
   - /theme-setup/
 toc: true
-author: Jay
+author: Mano
 ---
 
 **MeetrixIO** team is well experienced with WebRTC related technologies.
